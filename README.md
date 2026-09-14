@@ -1,0 +1,2 @@
+# GlucoGuard-AI-An-AI-powered-diabetes-risk-prediction-web-app
+🩺 **GlucoGuard AI** — An AI-powered diabetes risk prediction web app built with Python, Scikit-learn, and Streamlit. Features multiple ML models, cross-validation, explainable predictions, performance analytics, prediction history, and SQLite-based data storage.  ⚠️ For educational and research purposes only — not a medical diagnostic tool.
