@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+predictions.db
+.DS_Store
